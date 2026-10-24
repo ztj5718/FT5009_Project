@@ -9,8 +9,6 @@ Institutional buy signals are followed only when the SGD total-return index is a
 The rule adapts the price-versus-SMA example in Lecture 8, PDF pages 16 and 21. See [course references](LECTURE_ALIGNMENT.md).
 
 ## Results
-
-- [Report](results/MEMBER2_REPORT.md) · [Three-page A4 PDF](results/MEMBER2_REPORT_A4.pdf)
 - [Cumulative returns and drawdowns](results/figures/net_returns_drawdowns.png) · [Cost comparison](results/figures/cost_stress.png)
 - [Performance by period](results/performance.csv) · [Liquidity summary](results/liquidity_summary.csv)
 - [Trade records](results/trades_and_liquidity.csv.gz) · [Validation records](results/validation.json)
