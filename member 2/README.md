@@ -36,7 +36,3 @@ To rebuild inputs, append `--rebuild-inputs`. To run only the Member 2 tests:
 ```bash
 python -m unittest discover -s "member 2/tests" -v
 ```
-
-Member 3 will use the supplied holdings and returns for Part 5 and integrate this chapter into the final report. See the [requirements checklist](REQUIREMENTS_CHECKLIST.md) for the file mapping.
-
-AI assistance: OpenAI Codex was used for coding, analysis and drafting.
