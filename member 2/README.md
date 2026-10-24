@@ -12,7 +12,6 @@ The rule adapts the price-versus-SMA example in Lecture 8, PDF pages 16 and 21. 
 - [Cumulative returns and drawdowns](results/figures/net_returns_drawdowns.png) · [Cost comparison](results/figures/cost_stress.png)
 - [Performance by period](results/performance.csv) · [Liquidity summary](results/liquidity_summary.csv)
 - [Trade records](results/trades_and_liquidity.csv.gz) · [Validation records](results/validation.json)
-- [Risk inputs for Member 3](results/risk_handoff/README.md)
 
 The comparison covers gross, net and doubled transaction costs over the full sample and the three required subperiods. Results inherit the data-coverage and execution limitations documented by Member 1.
 
