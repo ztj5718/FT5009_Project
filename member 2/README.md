@@ -6,7 +6,7 @@ Parts 3–4 of the FT5009 group project: an enhanced institutional strategy and 
 
 Institutional buy signals are followed only when the SGD total-return index is above its 126-day simple moving average; sell signals require it to be below. The rule uses observations strictly before publication, with no parameter search. Rejected allocations remain in cash. Position limits, weekly execution and cost assumptions follow the original strategies.
 
-The rule adapts the price-versus-SMA example in Lecture 8, PDF pages 16 and 21. See [course references](LECTURE_ALIGNMENT.md).
+The rule adapts the price-versus-SMA example in Lecture 8, PDF pages 16 and 21.
 
 ## Results
 - [Cumulative returns and drawdowns](results/figures/net_returns_drawdowns.png) · [Cost comparison](results/figures/cost_stress.png)
